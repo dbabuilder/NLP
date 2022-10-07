@@ -15,6 +15,13 @@ git branch
 git log --oneline
 
 git reset --hard 69cd3db
+
+git pull
+
+git tag 15-10-2021 -m "version del proyecto"
+git push --tags
+
+git clone https://github.com/dbabuilder/NLP.git
 ---------------------
 echo "# NLP" >> README.md
 git init
