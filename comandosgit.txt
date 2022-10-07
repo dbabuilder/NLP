@@ -23,6 +23,11 @@ git push --tags
 
 git clone https://github.com/dbabuilder/NLP.git
 
+git branch javascript
+git branch
+git checkout javascrip
+git checkout main
+
 ---------------------
 echo "# NLP" >> README.md
 git init
